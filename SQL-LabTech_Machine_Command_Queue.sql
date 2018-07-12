@@ -1,0 +1,1 @@
+Select * from commands where computerid=<machine Id>
